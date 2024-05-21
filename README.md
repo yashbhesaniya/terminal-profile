@@ -40,6 +40,9 @@ the terminal profile theme.
 ```bash
 ./install_powerline.sh
 ```
+### Additional Note:
+
+If you encounter the error message indicating that the environment is externally managed, you should modify the install_powerline.sh script. Comment out the current installation commands and use the commands provided under the ################################ Alternative command ########################################### section to resolve the error.
 
 ### ZSH, OhMyZSH and Plugins
 
